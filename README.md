@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheTechKing54
+- 👀 I’m interested in MacOS
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on swift-shop
+- 😄 Pronouns: Him/he
